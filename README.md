@@ -1,10 +1,32 @@
-<h1 align="center">Hi 👋, I'm Vimal Kanojiya</h1>
-<h3 align="center">MS Power BI Developer</h3>
+### Hi there, I'm Vimal Kanojiya 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in// vimal-kanojiya-391013341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/ vimal-kanojiya-391013341" height="30" width="40" /></a>
-</p>
+![Profile Banner](https://source.unsplash.com/1600x500/?technology,data)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I am a **Power BI Developer Intern** passionate about data visualization, business intelligence, and turning raw data into meaningful insights. I am currently focusing on gaining **hands-on experience** with Power BI before advancing my career with certifications and more complex projects.
+
+### 🚀 About Me:
+- 💡 Passionate about **Data Analytics & Business Intelligence**
+- 📊 Skilled in **Power BI**, **DAX**, and **Data Modeling**
+- 🎯 Currently improving hands-on practice with **Power BI Dashboards**
+- 📜 Planning to pursue **certifications** in Business Intelligence & Data Analytics
+- 🌱 Open to learning new **data visualization tools** & **SQL**
+
+### 🔧 Tech Stack:
+- **BI Tools:** Power BI, Tableau (beginner)
+- **Languages:** SQL, DAX
+- **Databases:** SQL Server, Excel
+- **Other:** Data Modeling, ETL Processes
+
+### 📫 Connect With Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+
+### 📈 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+### 🔥 My Power BI Projects:
+- 📊 **[Project 1: Sales Dashboard](#)** - An interactive dashboard to track sales performance.
+- 📈 **[Project 2: Financial Analysis](#)** - Data-driven insights for financial decision-making.
+
+🚀 **Always looking to grow and improve! Feel free to connect with me.**
