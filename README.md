@@ -18,7 +18,7 @@ I am a **Power BI Developer Intern** passionate about data visualization, busine
 - **Other:** Data Modeling, ETL Processes
 
 ### 📫 Connect With Me:[
-[![LinkedIn](https://www.linkedin.com/in/vimal-kanojiya-391013341/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/vimal-kanojiya-391013341/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vimalkanojiya)
 
 
